@@ -1,0 +1,18 @@
+108  history
+  109  pwd
+  110  ls
+  111  ls -a
+  112  git add.
+  113  git add
+  114  echo "# sample-devops" >> README.md
+  115  git init
+  116  git add README.md
+  117  git add .
+  118  git commit -m "first commit"
+  119  git branch -M main
+  121  git push -u origin main
+  122  git status
+  123  git init
+  124  git commit -am " add this"
+  125  main
+  126  originclear 
